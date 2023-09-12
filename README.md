@@ -18,6 +18,5 @@ I used python 3 for this application.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Brew](https://brew.sh/)
 * [GitHub](https://github.com)
