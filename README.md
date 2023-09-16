@@ -4,7 +4,7 @@ This is a classic Hello World application.
 
 This was created as part of a practice process I went through in order to practice version control.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/XBR_sHSVk1A)
 
 ![Screenshot of the picture](picture.png)
 
@@ -20,3 +20,4 @@ I used python 3 for this application.
 
 * [Brew](https://brew.sh/)
 * [GitHub](https://github.com)
+* [Python](https://www.python.org/downloads/)
